@@ -1,3 +1,8 @@
 git status
 git add 
 git commit -m ""
+git push origin main
+git checkout <6 primeros dígitos>
+git checkout -b <nobmre rama nueva>
+git push origin <nombre rama nueva>
+git checkout <rama>
